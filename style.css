@@ -1,0 +1,7 @@
+body.dark-mode {
+    background-color: black;
+}
+
+button.active {
+    background-color: green;
+}
